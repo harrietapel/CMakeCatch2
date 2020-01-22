@@ -35,3 +35,5 @@ But ideally, you should use this as a template to create your own project. To do
 please refer to the [CMakeTemplateRenamer](https://github.com/MattClarkson/CMakeTemplateRenamer)
 which will show you how to clone this repository, and rename all the variables to names of your choice.
 Then you would simply build your new project, using cmake, as shown above.
+
+Not sure what use I currently have for this template in my research so making a trivial change so can see if travis is working.
